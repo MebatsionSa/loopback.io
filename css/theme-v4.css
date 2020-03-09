@@ -77,7 +77,7 @@ a[data-toggle="tooltip"] {
 }
 
 .navbar-inverse .navbar-nav > li > a {
-    color: var(--color-white);
+    color: #cdd5ff;
     font-size: 12px;
     text-transform: uppercase;
 }

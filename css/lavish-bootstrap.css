@@ -2867,6 +2867,7 @@ input[type="button"].btn-block {
   .navbar-right .dropdown-menu {
     right: 0;
     left: auto;
+    top: 46px;
   }
 }
 .btn-default .caret {
@@ -3944,7 +3945,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   border-bottom-color: #ffffff;
 }
 .navbar-inverse .navbar-nav > .dropdown > a .caret {
-  border-top-color: #f9faf9;
+  border-top-color: #92a1f1;
   border-bottom-color: #f9faf9;
 }
 .navbar-inverse .navbar-nav > .open > a .caret,
